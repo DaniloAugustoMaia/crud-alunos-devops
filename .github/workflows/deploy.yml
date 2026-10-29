@@ -1,0 +1,16 @@
+name: Deploy automatico
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+jobs:
+  deploy:
+    runs-on: [self-hosted, linux, x64]
+    timeout-minutes: 15
+    steps:
+      - name: Baixar versao atual
+        uses: actions/checkout@v4
+      - name: Atualizar aplicacao
+        run: docker compose up -d --build --remove-orphans
+      - name: Verificar containers
+        run: docker compose ps
