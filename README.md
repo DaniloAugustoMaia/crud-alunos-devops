@@ -10,8 +10,6 @@
 - Danilo Augusto Maia RA:250299
 - Hiago Freitas Risatto RA:250535
 
-**Repositório:** https://github.com/DaniloAugustoMaia/crud-alunos-devops
-
 ## 2. Descrição
 
 Este projeto consiste em uma aplicação web CRUD (Create, Read, Update e Delete) para gerenciamento de alunos, desenvolvida em PHP e integrada a um banco de dados MySQL.
