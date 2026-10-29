@@ -7,7 +7,7 @@ $alunos = $pdo->query('SELECT * FROM alunos ORDER BY id DESC')->fetchAll();
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <title>CRUD de Alunos</title>
+    <title>CRUD de Alunos - VERSÃO 2 MUITO FODA SUPER SAYAJIN 3</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
