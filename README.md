@@ -3,7 +3,7 @@
 ## 1. Identificação do projeto
 
 **Instituição:** UniALFA  
-**Curso:** Sistemas para Internet  
+**Curso:** Sistemas para Internet 4º Semestre 
 **Atividade:** Trabalho 2 — Deploy Automático em VM
 
 **Integrantes:**
