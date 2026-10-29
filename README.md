@@ -7,8 +7,8 @@
 **Atividade:** Trabalho 2 — Deploy Automático em VM
 
 **Integrantes:**
-- Danilo Augusto Maia
-- Bigode (Hiago)
+- Danilo Augusto Maia RA:250299
+- Hiago Freitas Risatto RA:250535
 
 **Repositório:** https://github.com/DaniloAugustoMaia/crud-alunos-devops
 
